@@ -1,0 +1,11 @@
+/*.content {*/
+/*    grid-area: c;*/
+/*    background-color: crimson;*/
+/*}*/
+
+.contentImg {
+    width: 100%;
+}
+.item {
+    color: yellowgreen;
+}

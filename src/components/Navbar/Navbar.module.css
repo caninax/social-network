@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    background-color: darkorange;
+}
+
+.item {
+    color: white;
+    list-style: none;
+}
+
+.itemLink{
+    text-decoration: none;
+    color: white;
+}
+.itemLink.active {
+    text-decoration: none;
+    color: purple;
+}
